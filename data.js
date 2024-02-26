@@ -1,3 +1,7 @@
+import logo1 from "../assets/images/logo1.png";
+import logo2 from "../assets/images/logo2.png";
+import logo3 from "../assets/images/logo3.png";
+
 export const jobs = [
 	{
 		id: 1,
