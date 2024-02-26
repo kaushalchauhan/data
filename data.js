@@ -1,6 +1,9 @@
-import logo1 from "../assets/images/logo1.png";
-import logo2 from "../assets/images/logo2.png";
-import logo3 from "../assets/images/logo3.png";
+// import logo1 from "../assets/images/logo1.png";
+// import logo2 from "../assets/images/logo2.png";
+// import logo3 from "../assets/images/logo3.png";
+const logo1 = "https://github.com/kaushalchauhan.png"
+const logo2 = "https://github.com/kaushalchauhan.png"
+const logo3 = "https://github.com/kaushalchauhan.png"
 
 export const jobs = [
 	{
