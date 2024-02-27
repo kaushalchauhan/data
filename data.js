@@ -5,7 +5,7 @@ const logo1 = "https://github.com/kaushalchauhan.png"
 const logo2 = "https://github.com/kaushalchauhan.png"
 const logo3 = "https://github.com/kaushalchauhan.png"
 
-export const jobs = [
+ const jobs = [
 	{
 		id: 1,
 		title: "Senior React Developer",
@@ -307,3 +307,4 @@ export const jobs = [
 			"• Good JavaScript knowledge <br /> • At least 3 years’ production level experience in front end development using React JS (ES6, Hooks), Redux <br /> • Proficiency in handwriting semantic HTML <br /> • Proficiency in handwriting CSS <br /> • High fluency with REST Services, JSON formats, marshalling/unmarshalling <br /> • Previous experience in applying graphical interface ergonomics concepts <br /> • Understanding the point of view of users with reduced technical capabilities <br /> • Understanding and assuming an Agile development, with Scrum and Kanban <br /> • Knowledge of Git repository, with multiple branches, with production environment support in parallel with QA environment.",
 	},
 ];
+module.exports = { jobs };
